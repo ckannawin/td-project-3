@@ -174,4 +174,7 @@ footer p {
         width: 25%;
         display: inline-block;
     }
+    label[for*="message"] {
+        width: 100%;
+      }
 }
